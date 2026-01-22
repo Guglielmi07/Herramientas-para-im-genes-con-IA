@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import { removeTextFromImage, removeBackgroundFromImage, enhanceImage, restoreImage, colorizeImage, editImage } from './servicios/geminiService';
+import { removeTextFromImage, removeBackgroundFromImage, enhanceImage, restoreImage, colorizeImage, editImage } from './services/geminiService';
 import { fileToBase64 } from './utils/fileUtils';
 import { UploadIcon, SparklesIcon, DownloadIcon, ImageIcon, WandIcon, BackgroundIcon, RestoreIcon, ColorizeIcon, EditIcon } from './components/Icons';
 import ImageComparator from './components/ImageComparator';
