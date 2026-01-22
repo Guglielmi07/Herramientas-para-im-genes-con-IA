@@ -1,0 +1,5 @@
+{
+  "name": "Herramientas de Imagen con IA",
+  "description": "Una aplicación que utiliza IA para quitar texto, eliminar fondos y mejorar la calidad de las imágenes.",
+  "requestFramePermissions": []
+}
